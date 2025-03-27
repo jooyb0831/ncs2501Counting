@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CountPrototype.sln"
+    "dotnet.defaultSolution": "ncs2501Counting.sln"
 }
